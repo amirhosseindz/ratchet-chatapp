@@ -72,8 +72,6 @@
 
 		$('#main-container').addClass('hidden');
 		$('#user-container').removeClass('hidden');
-
-		
 	});
 
 })();
